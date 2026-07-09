@@ -1,0 +1,41 @@
+Developer Push
+
+↓
+
+GitHub
+
+↓
+
+Jenkins Trigger
+
+↓
+
+Checkout Code
+
+↓
+
+Compile
+
+↓
+
+Run Unit Tests
+
+↓
+
+Package JAR
+
+↓
+
+Build Docker Image
+
+↓
+
+Deploy Container
+
+↓
+
+Verify Application
+
+↓
+
+SUCCESS
